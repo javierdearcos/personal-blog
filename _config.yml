@@ -17,7 +17,7 @@ timezone: Europe/Madrid
 
 # URL
 url: https://javierdearcos.github.io/personal-blog/
-root: /
+root: /personal-blog/
 permalink: :year/:month/:title/
 permalink_defaults:
 pretty_urls:
