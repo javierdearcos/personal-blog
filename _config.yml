@@ -3,16 +3,20 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: The Luckiest
-subtitle: 'Javier de Arcos'
-description: 'Personal blog'
-keywords:
+title: Javier de Arcos
+subtitle: Blog Personal
+description: Blog personal de Javier de Arcos
+keywords: 
+  - desarrollo
+  - programación
+  - carrera profesional
+  - personal
 author: Javier de Arcos
 language: es
-timezone: 'GMT+2'
+timezone: Europe/Madrid
 
 # URL
-url: http://javierdearcos.es
+url: https://javierdearcos.github.io/personal-blog/
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
@@ -92,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Hacker
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
