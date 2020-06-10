@@ -16,7 +16,7 @@ language: es
 timezone: Europe/Madrid
 
 # URL
-url: https://javierdearcos.github.io
+url: https://javierdearcos.com
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
