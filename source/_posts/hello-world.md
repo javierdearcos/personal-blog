@@ -1,5 +1,6 @@
 ---
 title: 10 años después... Hola Mundo!
+date: 2020-06-13
 tags: 
     - personal
     - carrera profesional
