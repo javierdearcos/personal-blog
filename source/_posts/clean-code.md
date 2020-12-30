@@ -6,7 +6,9 @@ tags:
 categories: principios, patrones y prácticas de programación
 ---
 
-{% img /images/M104.jpg '"M104 The Sombrero Galaxy" "Foto de la galaxia M104 The Sombrero Galaxy que aparece en la portada del libro Clean Code the Robert C. Martin"' %}
+{% picture M104.jpg %}
+Foto de la galaxia M104 The Sombrero Galaxy que aparece en la portada del libro Clean Code the Robert C. Martin
+{% endpicture %}
 
 He dudado mucho de cuál debía ser el tema de mi primera entrada técnica del blog pero una vez me vino a la cabeza no se me ocurre mejor opción.
 

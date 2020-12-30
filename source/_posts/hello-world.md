@@ -7,7 +7,9 @@ tags:
 categories: personal
 ---
 
-{% img /images/hello-world.jpg '"Foto de Wil Stewart en Unsplash" "Mano sujetando un reloj de pulsera con correa de cuero con un paisaje de fondo"' %}
+{% picture helloWorld.jpg %}
+Mano sujetando un reloj de pulsera con correa de cuero con un paisaje de fondo. Foto de Wil Stewart en Unsplash
+{% endpicture %}
 
 Esta es la primera entrada de mi blog y, siendo sinceros, debería haberla escrito hace muchos años...
 

@@ -103,6 +103,11 @@ feed:
 ## Themes: https://hexo.io/themes/
 theme: Hacker
 
+## Images
+images:
+    enable: true
+    base_dir: "images"
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
