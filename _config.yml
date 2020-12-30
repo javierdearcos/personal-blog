@@ -107,6 +107,8 @@ theme: Hacker
 images:
     enable: true
     base_dir: "images"
+    templates:
+        image: themes/Hacker/layout/_tag/image.ejs
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
