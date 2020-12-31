@@ -7,9 +7,15 @@ tags:
 categories: personal
 ---
 
-{% picture helloWorld.jpg %}
-Mano sujetando un reloj de pulsera con correa de cuero con un paisaje de fondo. Foto de Wil Stewart en Unsplash
-{% endpicture %}
+<figure>
+    <picture>
+                <source srcset="/2020/06/hello-world/edecb267/helloworld@1x.webp"media="(max-width: 39.99em)"  type="image/webp" />
+                <source srcset="/2020/06/hello-world/edecb267/helloworld@2x.webp"media="(min-width: 40em)"  type="image/webp" />
+                <source srcset="/2020/06/hello-world/edecb267/helloworld@1x.jpg"media="(max-width: 39.99em)"  type="image/jpg" />
+                <source srcset="/2020/06/hello-world/edecb267/helloworld@2x.jpg"media="(min-width: 40em)"  type="image/jpg" />
+            <img src="/2020/06/hello-world/edecb267/helloworld@2x.jpg" alt="Mano sujetando un reloj de pulsera con correa de cuero con un paisaje de fondo. Foto de Wil Stewart en Unsplash" />
+    </picture>
+</figure>
 
 Esta es la primera entrada de mi blog y, siendo sinceros, debería haberla escrito hace muchos años...
 
