@@ -103,6 +103,34 @@ feed:
 ## Themes: https://hexo.io/themes/
 theme: Hacker
 
+# Menu
+menu:
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Tags: /tags
+
+# Social links
+social:
+  - icon: "fab fa-twitter-square fa-2x"
+    url: https://twitter.com/javierdearcosTL
+  - icon: "fab fa-linkedin fa-2x"
+    url: https://www.linkedin.com/in/javierdearcos
+  - icon: "fab fa-github-square fa-2x"
+    url: https://github.com/javierdearcos
+  - icon: "fas fa-envelope-square fa-2x"
+    url: mailto:fj.dearcos@gmail.com
+  - icon: "fas fa-rss-square fa-2x"
+    url: /atom.xml
+
+# gitalk
+gitalk: true
+gitalk_owner: javierdearcos
+gitalk_admin: [javierdearcos]
+gitalk_repo: javierdearcos.github.io
+gitalk_client_id: 78b35c7c154a7688e00a
+gitalk_client_secret: 53ed07770e43a34938217b2ccb6c990e2018dd79
+
 ## Images
 images:
   enable: true
