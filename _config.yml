@@ -93,14 +93,13 @@ include:
 exclude:
 ignore:
 
-# Extensions
-## Plugins: https://hexo.io/plugins/
+# RSS Feed
 feed:
   type: atom
   path: atom.xml
   limit: 5
 
-## Themes: https://hexo.io/themes/
+# Themes: https://hexo.io/themes/
 theme: Hacker
 
 # Menu
@@ -131,7 +130,10 @@ gitalk_repo: javierdearcos.github.io
 gitalk_client_id: 78b35c7c154a7688e00a
 gitalk_client_secret: 53ed07770e43a34938217b2ccb6c990e2018dd79
 
-## Images
+# Google Analytics
+googlePropertyId: UA-167401170-1
+
+# Images
 images:
   enable: true
   base_dir: "images"
@@ -139,6 +141,5 @@ images:
     image: themes/Hacker/layout/_tag/image.ejs
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
