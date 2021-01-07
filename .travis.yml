@@ -1,13 +1,16 @@
 sudo: false
 language: node_js
 node_js:
-  - 12 # use nodejs v10 LTS
-cache: npm
+  - 12
+cache:
+  npm: true
+  directories:
+    - "images"
 branches:
   only:
     - develop
 script:
-  - hexo generate # generate static files
+  - hexo generate
 deploy:
   provider: pages
   skip-cleanup: true
