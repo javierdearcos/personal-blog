@@ -130,8 +130,8 @@ gitalk_repo: javierdearcos.github.io
 gitalk_client_id: 78b35c7c154a7688e00a
 gitalk_client_secret: 53ed07770e43a34938217b2ccb6c990e2018dd79
 
-# Google Analytics
-googlePropertyId: UA-167401170-1
+# nib:space analytics
+nibspaceDomain: javierdearcos.com
 
 # Images
 images:

@@ -1,10 +1,13 @@
 ---
 title: 10 años después... Hola Mundo!
+description: Mi primera entrada de mi blog personal con el porqué de este proyecto.
 date: 2020-06-13
 tags: 
     - personal
     - carrera profesional
 categories: personal
+cover: https://javierdearcos.com/2020/06/hello-world/edecb267/helloworld@2x.jpg
+url: https://javierdearcos.com/2020/06/hello-world
 ---
 
 <figure>

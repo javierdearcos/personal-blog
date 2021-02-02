@@ -1,9 +1,12 @@
 ---
 title: Clean Code o el sentido común en la programación
+description: Cuáles son los puntos más importantes del código limpio en mi experiencia.
 date: 2020-07-23
 tags:
     - desarrollo
 categories: principios, patrones y prácticas de programación
+cover: https://javierdearcos.com/2020/07/clean-code/fa1ad4cc/m104@2x.jpg
+url: https://javierdearcos.com/2020/07/clean-code
 ---
 
 <figure>
