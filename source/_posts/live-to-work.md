@@ -38,8 +38,6 @@ Si paras a pensar, la vida está condicionada por el trabajo mucho antes de que 
 
 ## La mediocridad como objetivo vital
 
-## El futuro
-
-## Vivir para trabajar
+## La nueva era
 
 Que lástima que la mediocridad, el quedarnos en un punto medio donde Platón decía que se encontraba la virtud, le hayamos dado unas connotaciones tan negativas. Como me gustaría que le diéramos a la mediocridad el virtuosismo que se merece
