@@ -5,17 +5,13 @@ date: 2021-03-10
 tags:
     - desarrollo
 categories: desarrollo
-cover: https://javierdearcos.com/2021/03/pull-requests/a73f316a/pull-requests@2x.jpg
+cover: https://javierdearcos.com/2021/03/pull-requests/pull-requests.jpg
 url: https://javierdearcos.com/2021/03/pull-requests
 ---
 
 <figure>
     <picture>
-                <source srcset="/2021/03/pull-requests/a73f316a/pull-requests@1x.webp"media="(max-width: 39.99em)"  type="image/webp" />
-                <source srcset="/2021/03/pull-requests/a73f316a/pull-requests@2x.webp"media="(min-width: 40em)"  type="image/webp" />
-                <source srcset="/2021/03/pull-requests/a73f316a/pull-requests@1x.jpg"media="(max-width: 39.99em)"  type="image/jpg" />
-                <source srcset="/2021/03/pull-requests/a73f316a/pull-requests@2x.jpg"media="(min-width: 40em)"  type="image/jpg" />
-            <img src="/2021/03/pull-requests/a73f316a/pull-requests@2x.jpg" alt="Pared llena de cámaras de seguridad. Foto de Lianhao Qu en Unsplash" />
+            <img src="/2021/03/pull-requests/pull-requests.jpg" alt="Pared llena de cámaras de seguridad. Foto de Lianhao Qu en Unsplash" />
     </picture>
 </figure>
 

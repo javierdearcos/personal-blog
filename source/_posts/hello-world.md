@@ -6,17 +6,13 @@ tags:
     - personal
     - carrera profesional
 categories: personal
-cover: https://javierdearcos.com/2020/06/hello-world/edecb267/helloworld@2x.jpg
+cover: https://javierdearcos.com/2020/06/hello-world/helloWorld.jpg
 url: https://javierdearcos.com/2020/06/hello-world
 ---
 
 <figure>
     <picture>
-                <source srcset="/2020/06/hello-world/edecb267/helloworld@1x.webp"media="(max-width: 39.99em)"  type="image/webp" />
-                <source srcset="/2020/06/hello-world/edecb267/helloworld@2x.webp"media="(min-width: 40em)"  type="image/webp" />
-                <source srcset="/2020/06/hello-world/edecb267/helloworld@1x.jpg"media="(max-width: 39.99em)"  type="image/jpg" />
-                <source srcset="/2020/06/hello-world/edecb267/helloworld@2x.jpg"media="(min-width: 40em)"  type="image/jpg" />
-            <img src="/2020/06/hello-world/edecb267/helloworld@2x.jpg" alt="Mano sujetando un reloj de pulsera con correa de cuero con un paisaje de fondo. Foto de Wil Stewart en Unsplash" />
+            <img src="/2020/06/hello-world/helloWorld.jpg" alt="Mano sujetando un reloj de pulsera con correa de cuero con un paisaje de fondo. Foto de Wil Stewart en Unsplash" />
     </picture>
 </figure>
 

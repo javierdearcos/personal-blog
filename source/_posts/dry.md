@@ -5,15 +5,13 @@ date: 2021-10-15
 tags:
     - desarrollo
 categories: principios, patrones y prácticas de programación
-cover: https://javierdearcos.com/2021/10/dry/36fc5aa6/dry@2x.jpg
+cover: https://javierdearcos.com//2021/10/dry/dry.jpg
 url: https://javierdearcos.com/2021/10/dry
 ---
 
 <figure>
     <picture>
-            <source srcset="/2021/10/dry/36fc5aa6/dry@1x.jpg"media="(max-width: 39.99em)"  type="image/jpg" />
-            <source srcset="/2021/10/dry/36fc5aa6/dry@2x.jpg"media="(min-width: 40em)"  type="image/jpg" />
-            <img src="/2021/10/dry/36fc5aa6/dry@2x.jpg" alt="Tierra seca agrietada formando patrones. Foto de Micaela Parente en Unsplash" />
+            <img src="/2021/10/dry/dry.jpg" alt="Tierra seca agrietada formando patrones. Foto de Micaela Parente en Unsplash" />
     </picture>
 </figure>
 

@@ -5,15 +5,13 @@ date: 2022-08-21
 tags:
     - personal
 categories: personal
-cover: https://javierdearcos.com/2022/08/the-average-life/c5468099/dawn@2x.jpg
+cover: https://javierdearcos.com/2022/08/the-average-life/dawn.jpg
 url: https://javierdearcos.com/2022/08/the-average-life
 ---
 
 <figure>
     <picture>
-        <source srcset="/2022/08/the-average-life/c5468099/dawn@1x.jpg"media="(max-width: 39.99em)"  type="image/jpg" />
-        <source srcset="/2022/08/the-average-life/c5468099/dawn@2x.jpg"media="(min-width: 40em)"  type="image/jpg" />
-        <img src="/2022/08/the-average-life/c5468099/dawn@2x.jpg" alt="Amanecer en una playa con nubes. Foto de Joshua Earle en Unsplash" />
+        <img src="/2022/08/the-average-life/dawn.jpg" alt="Amanecer en una playa con nubes. Foto de Joshua Earle en Unsplash" />
     </picture>
 </figure>
 

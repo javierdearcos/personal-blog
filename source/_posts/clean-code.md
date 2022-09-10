@@ -5,17 +5,13 @@ date: 2020-07-23
 tags:
     - desarrollo
 categories: principios, patrones y prácticas de programación
-cover: https://javierdearcos.com/2020/07/clean-code/fa1ad4cc/m104@2x.jpg
+cover: https://javierdearcos.com/2020/07/clean-code/M104.jpg
 url: https://javierdearcos.com/2020/07/clean-code
 ---
 
 <figure>
     <picture>
-                <source srcset="/2020/07/clean-code/fa1ad4cc/m104@1x.webp"media="(max-width: 39.99em)"  type="image/webp" />
-                <source srcset="/2020/07/clean-code/fa1ad4cc/m104@2x.webp"media="(min-width: 40em)"  type="image/webp" />
-                <source srcset="/2020/07/clean-code/fa1ad4cc/m104@1x.jpg"media="(max-width: 39.99em)"  type="image/jpg" />
-                <source srcset="/2020/07/clean-code/fa1ad4cc/m104@2x.jpg"media="(min-width: 40em)"  type="image/jpg" />
-            <img src="/2020/07/clean-code/fa1ad4cc/m104@2x.jpg" alt="La Galaxia del Sombrero M104 que aparece en la portada del libro Clean Code the Uncle Bob" />
+            <img src="/2020/07/clean-code/M104.jpg" alt="La Galaxia del Sombrero M104 que aparece en la portada del libro Clean Code the Uncle Bob" />
     </picture>
 </figure>
 

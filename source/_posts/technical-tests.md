@@ -6,17 +6,13 @@ tags:
     - carrera profesional
     - procesos de selección
 categories: carrera profesional
-cover: https://javierdearcos.com/2021/02/technical-tests/e15e7552/technical-tests@2x.jpg
+cover: https://javierdearcos.com/2021/02/technical-tests/technical-tests.jpg
 url: https://javierdearcos.com/2021/02/technical-tests
 ---
 
 <figure>
     <picture>
-                <source srcset="/2021/02/technical-tests/e15e7552/technical-tests@1x.webp"media="(max-width: 39.99em)"  type="image/webp" />
-                <source srcset="/2021/02/technical-tests/e15e7552/technical-tests@2x.webp"media="(min-width: 40em)"  type="image/webp" />
-                <source srcset="/2021/02/technical-tests/e15e7552/technical-tests@1x.jpg"media="(max-width: 39.99em)"  type="image/jpg" />
-                <source srcset="/2021/02/technical-tests/e15e7552/technical-tests@2x.jpg"media="(min-width: 40em)"  type="image/jpg" />
-            <img src="/2021/02/technical-tests/e15e7552/technical-tests@2x.jpg" alt="Mujer concentrada anotando en un cuaderno con el portatil delante. Foto de J. Kelly Brito en Unsplash" />
+            <img src="/2021/02/technical-tests/technical-tests.jpg" alt="Mujer concentrada anotando en un cuaderno con el portatil delante. Foto de J. Kelly Brito en Unsplash" />
     </picture>
 </figure>
 

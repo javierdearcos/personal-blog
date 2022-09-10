@@ -44,7 +44,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -133,12 +133,8 @@ gitalk_client_secret: 53ed07770e43a34938217b2ccb6c990e2018dd79
 # nib:space analytics
 nibspaceDomain: javierdearcos.com
 
-# Images
-images:
-  enable: true
-  base_dir: "images"
-  templates:
-    image: themes/Hacker/layout/_tag/image.ejs
+# All minifier
+all_minifier: true
 
 # Whether to show read more button when showing article in excerpt in main page
 read_more_btn: true

@@ -5,17 +5,13 @@ date: 2021-06-16
 tags:
     - personal
 categories: personal
-cover: https://javierdearcos.com/2021/06/wonderland/e0d962be/white-rabbit@2x.jpg
+cover: https://javierdearcos.com/2021/06/wonderland/white-rabbit.jpg
 url: https://javierdearcos.com/2021/06/wonderland
 ---
 
 <figure>
     <picture>
-                <source srcset="/2021/06/wonderland/e0d962be/white-rabbit@1x.webp"media="(max-width: 39.99em)"  type="image/webp" />
-                <source srcset="/2021/06/wonderland/e0d962be/white-rabbit@2x.webp"media="(min-width: 40em)"  type="image/webp" />
-                <source srcset="/2021/06/wonderland/e0d962be/white-rabbit@1x.jpg"media="(max-width: 39.99em)"  type="image/jpg" />
-                <source srcset="/2021/06/wonderland/e0d962be/white-rabbit@2x.jpg"media="(min-width: 40em)"  type="image/jpg" />
-            <img src="/2021/06/wonderland/e0d962be/white-rabbit@2x.jpg" alt="Conejo blanco en medio de la naturaleza. Foto de Hossam M. Omar en Unsplash" />
+            <img src="/2021/06/wonderland/white-rabbit.jpg" alt="Conejo blanco en medio de la naturaleza. Foto de Hossam M. Omar en Unsplash" />
     </picture>
 </figure>
 
