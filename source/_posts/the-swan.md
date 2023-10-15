@@ -1,17 +1,17 @@
 ---
 title: El Cisne
 description: Los rituales y supersticiones forman parte de nuestro trabajo y están en nuestro día a día. Nuestra labor es desafiarlos para que dejen de serlo y entender lo que hay detrás de ellos.
-date: 2023-08-27
+date: 2023-10-14
 tags:
     - carrera profesional
 categories: carrera profesional
-cover: https://javierdearcos.com/2023/08/the-swan/the-swan.jpg
-url: https://javierdearcos.com/2023/08/the-swan
+cover: https://javierdearcos.com/2023/10/the-swan/the-swan.jpg
+url: https://javierdearcos.com/2023/10/the-swan
 ---
 
 <figure>
     <picture>
-        <img src="/2023/08/the-swan/the-swan.jpg" alt='Logo del Cisne de la serie Perdidos' />
+        <img src="/2023/10/the-swan/the-swan.jpg" alt='Logo del Cisne de la serie Perdidos' />
     </picture>
 </figure>
 
@@ -61,7 +61,7 @@ La verdad es que todo es susceptible de convertirse en un cisne cuando perdemos 
 
 La inercia y la rutina son cómplices y grandes causantes de estos cisnes, ya que nos hacen olvidar por qué empezamos a hacerlos y no nos dejan entender si los seguimos necesitando.
 
-## Perseguir las respuestas y hacernos las preguntas
+## Hacernos preguntas y perseguir respuestas
 
 Y tenemos que aprender a vivir en la isla. Entre cisnes y otras estaciones aún más misteriosas. Enfrentarnos a este lugar lleno de fenómenos inexplicables reconociendo que la única forma de avanzar es hacernos preguntas y no parar de buscar las respuestas, como hicimos todos los que amamos esta serie.
 
@@ -69,7 +69,7 @@ Aprender el poder de un "¿por qué?" y también la resistencia que puede causar
 
 Debemos entender también que no todo es conocimiento "duro" y que hay otras habilidades en las que deberemos trabajar con la misma intensidad. Construir relaciones que nos permitan sobrevivir y, a poder ser, vivir y disfrutar de nuestra profesión. Colaborar para desentrañar los mayores misterios y no volver a caer en ellos. Comunicar para hacernos entender y convencer a otros. Compartir nuestro conocimiento para ayudar a los demás y evitar crear nuevos cisnes.
 
-Este es el camino para el crecimiento profesional y personal. Comprender el mundo que nos rodea y encontrar las oportunidades para mejorar y ser más efectivos.
+Este es el camino para el crecimiento profesional y personal. Comprender el mundo que nos rodea y encontrar las oportunidades para mejorar y ser más efectivos. No dejarnos llevar por el mundo mágico, la inercia y la rutina, siguiendo rituales sobre los que no entendemos el porqué.
 
 ## Entornos seguros
 
@@ -85,7 +85,7 @@ Los errores son parte indispensable del aprendizaje y de la vida. Querer evitarl
 
 No será la última vez que visitemos la isla, que nos sintamos perdidos, que miremos a través de la escotilla preguntándonos qué hay al otro lado, que veamos un misterioso vídeo de orientación ni que dudemos si debemos pulsar el botón.
 
-Pero debemos seguir preguntándonos, buscando respuestas, teniendo sed de conocimiento y alimentando nuestra curiosidad. Debemos colaborar unidos y trabajar en crear un entorno seguro para todos. Darnos cuenta de que todos fuimos los otros para alguien y que la solución siempre se encuentra al ponernos todos en el mismo lado.
+Pero debemos seguir preguntándonos, buscando respuestas, teniendo sed de conocimiento y alimentando nuestra curiosidad. Debemos seguir luchando contra los "cisnes" y supersticiones, desafiándolos y resolviendo los misterios que esconden detrás. Debemos colaborar unidos y trabajar en crear un entorno seguro para todos. Debemos darnos cuenta de que todos fuimos los otros para alguien y que la solución siempre se encuentra al ponernos todos en el mismo lado.
 
-Que si hay una constante que nos permita anclarnos en el tiempo y disfrutar del presente, ésta debe ser el amor. El amor por seguir aprendiendo y creciendo personal y profesionalmente.
+Debemos recordar que si hay una constante que nos permita anclarnos en el tiempo y disfrutar del presente, ésta debe ser el amor. El amor por seguir aprendiendo y creciendo personal y profesionalmente.
 
