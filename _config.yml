@@ -93,12 +93,6 @@ include:
 exclude:
 ignore:
 
-# RSS Feed
-feed:
-  type: atom
-  path: atom.xml
-  limit: 5
-
 # Themes: https://hexo.io/themes/
 theme: Hacker
 
@@ -115,3 +109,17 @@ symbols_count_time:
   awl: 4
   wpm: 350
   suffix: "mins."
+
+# Feed
+feed:
+  limit: 20
+  order_by: "-date"
+  tag_dir: "tag"
+  category_dir: "category"
+  atom:
+    enable: true
+    output: "atom.xml"
+  jsonFeed:
+    enable: false
+  rss:
+    enable: false
