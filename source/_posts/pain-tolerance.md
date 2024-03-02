@@ -1,5 +1,5 @@
 ---
-title: Umbrales, dolores y formas de aliviarlos
+title: Umbrales del dolor, dolores y formas de aliviarlos
 description: Artículo sobre los dolores emocionales presentes en el trabajo y herramientas para aliviarlos y asegurar un entorno laboral sano donde prime el bienestar emocional.
 date: 2024-03-04
 tags:
@@ -25,7 +25,7 @@ Es esencial comprender de manera individualizada los umbrales y dolores de las p
 
 <!-- more -->
 
-## Los umbrales de dolor emocional son personales
+## Los umbrales del dolor emocional son personales
 
 El umbral del dolor marca el punto donde una persona empieza a sentir dolor. Es el nivel de intensidad o estímulo necesario para que una persona empiece a experimentar una sensación desagradable que puede variar desde una molestia leve hasta un dolor agudo.
 
