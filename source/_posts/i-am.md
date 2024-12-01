@@ -1,7 +1,7 @@
 ---
 title: Soy
-description: Reflexiones de lo que fui, soy y seré.
-date: 2024-12-02
+description: Reflexiones de la palabra ser y lo que soy.
+date: 2024-12-01 08:00+02:00
 tags:
     - personal
 categories: personal
