@@ -19,16 +19,15 @@ Es difícil saber cuándo empieza. Todo parece ir bien, hasta que un día el tra
 
 Comienza a ser más difícil llegar a todo. Empiezas a tomar decisiones que acumulan deuda: técnica, emocional, de equipo. Te equivocas más. Te cuesta desconectar, descansar, reconectar, motivarte. Vives con la sensación de que algo está fallando, de estar atrapado en unas arenas movedizas en las que no paras de hundirte.
 
-Lo más inquietante es que no te das cuenta del momento exacto en el que comienza.
-Solo más tarde, cuando puedes unir los puntos hacia atrás, entiendes que llevas tiempo jugando un juego que no elegiste. Un juego de supervivencia. Y lo más perverso es que la única salida parece seguir jugando.
+No te das cuenta del momento exacto en el que comienza. Solo más tarde, cuando puedes unir los puntos hacia atrás, entiendes que llevas tiempo jugando un juego que no elegiste. Un juego de supervivencia. Y lo más perverso es que la única salida parece seguir jugando.
 
 <!-- more -->
 
 ## Los “nuevos” tiempos
 
-Ha sido un inicio de año difícil en nuestro sector. Y, siendo sincero, no sé cuantos llevamos ya… Las noticias sobre despidos en el sector tecnológico se suceden. Algunas empresas van ya por su tercera ronda. Son tiempos raros. A la vez que las empresas anuncian que las oportunidades son más y mayores que nunca, ellas mismas anuncian la necesidad de prescindir de más gente para ajustar, reenfocar, prepararse, priorizar.
+Ha sido [un inicio de año difícil en nuestro sector](https://layoffs.fyi/). Y, siendo sincero, no sé cuantos llevamos ya… Las noticias sobre despidos en el sector tecnológico se suceden. Algunas empresas van ya por su tercera ronda. Son tiempos raros. A la vez que las empresas anuncian que las oportunidades son más y mayores que nunca, ellas mismas anuncian la necesidad de prescindir de más gente para ajustar, reenfocar, prepararse, priorizar.
 
-Es una disonancia difícil de gestionar. Al menos a mí. Reconozco que me falta perspectiva y conocimientos para entender todas las variables económicas y estratégicas. Quizá son las promesas de productividad de la IA, la situación política, las consecuencias de años de hipercrecimiento, las consecuencias de vivir en base a capital riesgo, la presión por mostrar rentabilidad… O quizás es algo más profundo, algo que tiene que ver con una forma de mirar el mundo, las personas y las empresas.
+Es una disonancia difícil de gestionar. Al menos a mí. Reconozco que me falta perspectiva y conocimientos para entender todas las variables económicas y estratégicas. Quizá son las promesas de productividad de la IA, la situación política, las consecuencias de años de hipercrecimiento o de vivir en base a capital riesgo, la presión por mostrar rentabilidad… O quizás es algo más profundo. Algo que tiene que ver con una forma de mirar el mundo, las personas y las empresas.
 
 Solo sé que cada vez me parece más claro que nuestro sector se ha convertido en un juego de supervivencia. Uno en el que o eres el mejor, o estás fuera. Una suerte de “Juego del Calamar”.
 
@@ -39,7 +38,7 @@ Y si ganas… simplemente sigues vivo un día más.
 
 Las reglas no están claras, cambian con cada ronda. El premio sólo se incrementa cuando otros caen.
 
-La única opción para detener el juego es que la mayoría quiera parar. Pero, ¿cómo lograrlo en un ambiente tan generalizado, hostil y competitivo? Cuando cada persona se siente sola, vulnerable, reemplazable. ¿Cómo formar una mayoría cuando el miedo es tan individual y silencioso?
+La única opción para detener el juego es que la mayoría quiera parar. Pero, ¿cómo lograrlo en un ambiente tan generalizado, hostil y competitivo? ¿Cuando cada persona se siente sola, vulnerable, reemplazable? ¿Cómo formar una mayoría cuando el miedo es tan individual y silencioso?
 
 Y cuanto más nos hablan de las maravillas que trae el futuro, más frágil me parece la estabilidad del presente.
 
@@ -57,7 +56,7 @@ Porque no hay cultura sana que sobreviva a un entorno de miedo. Uno de los pilar
 
 ### Dices adios a la salud mental
 
-Porque incluso cuando cierras el portátil, tu cabeza sigue en el juego. Piensas en los que ya no están, en los que podrían no estar mañana, en si serás tú. En cómo podrás cumplir unas reglas imposibles de cumplir. En cómo justificarás tus decisiones si las cosas no salen. En qué pasará si levantas la mano para pedir ayuda, para parar, para decir que algo no va bien. 
+Porque incluso cuando cierras el portátil, tu cabeza sigue en el juego. Piensas en los que ya no están, en los que podrían no estar mañana, en si serás tú. En cómo podrás cumplir unas expectativas imposibles. En cómo justificarás tus decisiones si las cosas no salen bien. En qué pasará si levantas la mano para pedir ayuda, para parar, para decir que algo no va bien. 
 
 Y podrás seguir ahí: cansado, funcional, rindiendo. Pero también desconectado, desmotivado, aislado. Como si sobrevivir cada semana fuera el único logro que puedes permitirte. Y el alivio, si llega, dura apenas un sábado. Porque el domingo ya sabes que mañana el juego vuelve a empezar.
 
@@ -65,11 +64,11 @@ Y podrás seguir ahí: cansado, funcional, rindiendo. Pero también desconectado
 
 Muchas veces me pregunto cómo llegamos hasta aquí. 
 
-Si fue esta cultura de quererlo todo y quererlo ya. De hacer caso a influencers que te dicen todos los secretos para tener éxito o ser el mejor en un trabajo que casualmente ellos no ejercen. De sentir la necesidad de saberlo todo y tener que demostrarlo al mundo. De usar tu tiempo libre para ser más productivo y así no sentirte mal. De las expectativas irrealistas de formar parte de la mejor empresa, de tener el mejor sueldo, de promocionar cada año. De querer correr, aunque sin entender muy bien a donde. Quizás para no parar y darte cuenta de lo vacío que se siente todo esto.
+Si fue esta cultura de quererlo todo y quererlo ya. De hacer caso a influencers que te dicen todos los secretos para tener éxito o ser el mejor en un trabajo que casualmente ellos no ejercen. De sentir la necesidad de saberlo todo y tener que demostrarlo al mundo todo el rato. De usar tu tiempo libre para ser más productivo y así no sentirte mal. De las expectativas irrealistas de formar parte de la mejor empresa, de tener el mejor sueldo, de promocionar cada año. De querer correr, aunque sin entender muy bien a donde. Quizás para no parar y darte cuenta de lo vacío que se siente todo esto.
 
 Puede que todo empezara con la obsesión de ser el siguiente Google, Facebook, Amazon… sin darnos cuenta de que seguramente estas empresas llegaron a ser lo que son por no querer ser como otras. Copiar las mismas estrategias, los mismos procesos, las mismas decisiones, sin pararnos a pensar si tienen sentido en nuestro contexto.
 
-Quizás fue la obsesión con la hiperproductividad, las métricas, la posibilidad de escalar, los pitches perfectos que cierran rondas de millones de dolares, los OKRs que convierten nuestros sueños en realidad.
+Quizás fue la fijación con la hiperproductividad, las métricas, la posibilidad de escalar, los pitches perfectos que cierran rondas de millones de dolares, los OKRs que convierten nuestros sueños en realidad.
 
 Seguramente el problema no es solo el juego. Es que nos lo creímos. Nos convencimos de que si no corríamos más, alguien nos adelantaría. De que si no creábamos presión, nadie rendiría. De que si no éramos los primeros, no valía la pena intentarlo.
 
